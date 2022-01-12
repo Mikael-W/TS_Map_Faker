@@ -7,5 +7,5 @@ npm parcel
 
 ## Why that ?
 
-Great to discover interface, Class, vartiable, function and 
-Good code practice in Typescript
+Great to discover interface, Class, variable, functions and 
+Good code practices in Typescript
